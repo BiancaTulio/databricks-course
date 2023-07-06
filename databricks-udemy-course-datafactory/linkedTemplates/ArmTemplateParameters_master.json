@@ -5,11 +5,17 @@
 		"factoryName": {
 			"value": "databricks-udemy-course-datafactory"
 		},
+		"ls_formula1dlbianca_storage_accountKey": {
+			"value": ""
+		},
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"value": "https://keyvault-formula1bianca.vault.azure.net/"
 		},
 		"ls_databricks_course_ws_properties_typeProperties_existingClusterId": {
 			"value": "0601-142707-y38ehs7u"
+		},
+		"ls_formula1dlbianca_storage_properties_typeProperties_url": {
+			"value": "https://formula1dlbianca.dfs.core.windows.net/"
 		},
 		"containerUri": {
 			"value": ""
