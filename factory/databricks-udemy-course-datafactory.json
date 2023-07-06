@@ -1,0 +1,9 @@
+{
+	"name": "databricks-udemy-course-datafactory",
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4ec7d0fc-6c13-4419-a5ea-40271187062a",
+		"tenantId": "20e9e658-d844-4d9c-a0b7-36389d71736f"
+	}
+}
